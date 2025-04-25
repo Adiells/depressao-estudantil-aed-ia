@@ -4,8 +4,8 @@ Este repositório contém dois notebooks (um ainda a ser adiconado) com abordage
 
 ## 📁 Estrutura do repositório
 
-- `analise_aed.ipynb`: Análise exploratória dos dados (**AED - Algoritmos e Estruturas de Dados**), com visualizações e observações estatísticas importantes.
-- `modelo_ia.ipynb`: Aplicação de algoritmos de **Inteligência Artificial** para prever a presença de depressão entre os estudantes com base em variáveis comportamentais e demográficas.
+- `analise-depressao.ipynb`: Análise exploratória dos dados (**AED - Algoritmos e Estruturas de Dados**), com visualizações e observações estatísticas importantes.
+- `predicao-depressao.ipynb`: Aplicação de algoritmos de **Inteligência Artificial** para prever a presença de depressão entre os estudantes com base em variáveis comportamentais e demográficas.
 
 ## 📊 Sobre o Dataset
 
