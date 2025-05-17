@@ -1,5 +1,9 @@
 # 📘 Previsão e Análise de Depressão em Estudantes Universitários
 
+> ⚠️ **Atenção:** Os gráficos gráficos foram feitos com Plotly e **não são exibidos corretamente no GitHub**.  
+> Para visualizar todos os gráficos interativos, **abra no Google Colab**:  
+> 👉 [Abrir no Google Colab](https://colab.research.google.com/github/Adiells/depressao-estudantil-aed-ia/blob/main/analise_exploratoria.ipynb#)
+
 Este repositório reúne dois notebooks com abordagens complementares voltadas ao estudo de fatores que influenciam a depressão em estudantes universitários. O objetivo central é analisar os dados e investigar formas de **compreender e reduzir os índices de depressão** nesse grupo.
 
 ---
